@@ -1,4 +1,4 @@
-### Bem Vindo! Sou José Filipe! 👋
+### Hello World! Sou José Filipe! 👋
  
 - 🌱 Atualmente estou estudando C#
 - 😄 Pronomes: ele/dele 
