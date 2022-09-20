@@ -1,6 +1,6 @@
 ### Hello World! Sou José Filipe! 👋
  
-- 🌱 Atualmente estou estudando C#
+- 🌱 Atualmente estou estudando Java
 - 😄 Pronomes: ele/dele 
 
 <div align="center">
