@@ -6,8 +6,8 @@
 <div align="center">
   <a href="https://github.com/filipe4ndrade">
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipe4ndrade&theme=dracula&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&border_radius=0"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe4ndrade&layout=compact&langs_count=7&theme=dracula"/>
+   
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe4ndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
