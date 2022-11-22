@@ -1,7 +1,7 @@
 ### Hello World! Sou José Filipe! 👋
  
 - 💻 Estudante de Engenharia Biomédica, me aperfeiçoando na área tech.
-- 🌱 Atualmente, estudando: Java, Html, Css, Js e SQL. 
+- 🌱 Atualmente, estudando: Java, Html, Css, Js e SQ. 
 - 😄 Pronomes: ele/dele 
 
 <div align="center">
