@@ -1,6 +1,6 @@
 ### Hello World! Sou José Filipe! 👋
  
-- 💻 Estudante de Engenharia Biomédica, me aperfeiçoando na área tech.
+- 💻 Estudante de Engenharia Biomédica migrando para área tech.
 - 🌱 Atualmente, estudando: Java. 
 - 😄 Pronomes: ele/dele 
 
