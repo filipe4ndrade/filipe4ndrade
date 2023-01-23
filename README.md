@@ -34,7 +34,9 @@
 <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
 <img title="React" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img width="50" height="50" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
+<img title="C++" alt="C++" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" />
 <img title="Arduino IDE" alt="Arduino IDE" height="50" width="50" src="https://www.nicepng.com/png/detail/207-2079566_arduino-1-logo-png-transparent-arduino-logo-png.png" />
+
 <p>
 
 ### Interesses:
