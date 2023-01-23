@@ -5,7 +5,7 @@
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
 - 😄 Pronomes: ele/dele 
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 ### Principais Linguagens e Ferramentas:
 </summary>
 <p align="left">
@@ -47,13 +47,14 @@
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
 <p>
 
+ ## 📈 Estatísticas
 <div align="center">
   <a href="https://github.com/filipe4ndrade">  
   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipe4ndrade&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ##
-  
+ 
   <div align="center"> 
   <a href="https://instagram.com/filipeandr4de" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:filipeandrade000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
