@@ -13,6 +13,7 @@
 <img width="50" height="50" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="50" height="50" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
 <img width="50" height="50" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
+<img width="50" height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
 <img width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
@@ -45,7 +46,6 @@
 </summary>
 <p align="left">
 <img height="50" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-<img width="50" height="50" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
 <img width="50" height="50" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
 <p>
 
