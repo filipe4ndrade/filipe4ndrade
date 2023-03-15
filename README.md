@@ -1,4 +1,4 @@
-##  Hello World! Sou José Filipe! 👋
+## Hello World! Sou José Filipe! 👋
  
 - 💻 Graduando em Engenharia Biomédica migrando para área tech.
 - 🌱 Atualmente, estou estudando Backend em Java e eventualmente, ferramentas de Frontend. 
