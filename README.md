@@ -1,6 +1,7 @@
 ## Hello World! Sou José Filipe! 👋
  
-- 💻 Graduando em Engenharia Biomédica migrando para área tech.
+- 💻 Graduando em Engenharia Biomédica.
+- 💻 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente, estou estudando Backend em Java e eventualmente, ferramentas de Frontend. 
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
 - 😄 Pronomes: ele/dele.
