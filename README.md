@@ -3,7 +3,6 @@
 - 💻 Graduando em Engenharia Biomédica e em Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente, estou estudando Backend em Java e eventualmente, ferramentas de Frontend. 
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
-- 😄 Pronomes: ele/dele.
 
 ## 🚀 Languages and Tools
 ### Principais Linguagens e Ferramentas:
