@@ -1,7 +1,7 @@
 ## Hello World! Sou José Filipe! 👋
  
-- 💻 Graduando em Engenharia Biomédica e em Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente, estou estudando Backend em Java e eventualmente, ferramentas de Frontend. 
+- 💻 Formado em Engenharia Biomédica e em Análise e Desenvolvimento de Sistemas.
+- 🌱 Atualmente, foco em Backend com Java e eventualmente, ferramentas de Frontend. 
 - 👀 Sigo sempre curioso para aprender novas tecnologias.
 
 ## 🚀 Languages and Tools
